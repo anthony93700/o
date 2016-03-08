@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="parser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/java/com/farida/m4104_2015_2016_tp2_calculatrice/parseer/parser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

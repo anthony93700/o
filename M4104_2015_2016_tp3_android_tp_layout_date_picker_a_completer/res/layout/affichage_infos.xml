@@ -1,0 +1,128 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient"
+>
+
+       <TextView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:gravity="center_horizontal"
+     android:text="@string/tv_recapitulatif"
+         android:background="@drawable/gradient_bouton"
+     
+     />
+
+    
+
+        <LinearLayout 
+        android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginTop="40dp"
+             android:background="@drawable/gradient_bouton"
+    >
+    
+    
+    <EditText
+        android:id="@+id/et_info_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        />
+
+    
+     <EditText
+        android:id="@+id/et_info_phone_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Phone number"
+        />
+    
+     <EditText
+        android:id="@+id/et_info_mdp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Password"
+        
+        />
+    
+</LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="50dp"
+                      android:layout_marginBottom="50dp"
+ 
+                         android:background="@drawable/gradient_birthday" >
+
+            <EditText
+                android:id="@+id/et_info_month"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:hint="Month" />
+
+            <EditText
+                android:id="@+id/et_info_day"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="34dp"
+                android:hint="Day"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp" />
+
+            <EditText
+                android:id="@+id/et_info_year"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="44dp"
+                android:hint="Year"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" 
+            android:gravity="center"
+            android:background="@drawable/gradient_email"
+            >
+
+            <EditText
+                android:id="@+id/et_email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/edit_text_email" />
+
+            <EditText
+                android:id="@+id/edit_text_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textEmailAddress" >
+
+                <requestFocus />
+            </EditText>
+
+            <Button
+                android:id="@+id/button_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title_bt_ok" />
+
+        </LinearLayout>
+
+</LinearLayout>

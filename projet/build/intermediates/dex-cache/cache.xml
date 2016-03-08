@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/java/com/farida/m4104_2015_2016_tp2_calculatrice/parseer/parser.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9ecaad83b26924c80dbce5183635b72d1da5e513">
+        <dex dex="/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/build/intermediates/pre-dexed/debug/parser_1927f6894c8663dcefb5c84290f7458f57316387.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+android:orientation="vertical"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="@android:color/holo_blue_light"
+>
+
+<EditText
+    android:id="@+id/edit_text_nom"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:hint="Taper votre Nom" />
+
+<EditText
+    android:id="@+id/edit_text_tel"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:hint="Entrez votre numéro de téléphone"
+    android:phoneNumber="true" />
+
+<EditText
+    android:id="@+id/edit_text_mdp"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:hint="Taper votre mot de passe"
+	android:inputType="textPassword"
+/>
+<DatePicker
+    android:id="@+id/date_picker"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:calendarViewShown="false"
+     android:endYear="2100"
+     android:startYear="1900" 
+     />
+
+ <LinearLayout
+            android:id="@+id/layout_info_courriel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" 
+            android:gravity="center"
+            android:background="@drawable/gradient_email"
+            >
+
+
+        </LinearLayout>
+
+
+<Button
+    android:id="@+id/button_valider"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Valider" />
+
+<TextView
+    android:id="@+id/textview_info"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    />
+
+
+
+</LinearLayout>
+

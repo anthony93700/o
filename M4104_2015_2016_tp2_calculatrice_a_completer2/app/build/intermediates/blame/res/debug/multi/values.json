@@ -1,0 +1,834 @@
+[
+    {
+        "outputFile": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 52,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 69,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 69,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 38,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1503,
+                        "endColumn": 38,
+                        "endOffset": 1537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 36,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 603,
+                        "endColumn": 36,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 42,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 42,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 42,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1257,
+                        "endColumn": 42,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 42,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 42,
+                        "endOffset": 1338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 43,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 43,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 36,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endColumn": 36,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 37,
+                    "endOffset": 497
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 37,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 502,
+                    "endColumn": 38,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 974,
+                        "endColumn": 38,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 37,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 37,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 36,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 36,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 38,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 38,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 37,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 37,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 37,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 37,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 36,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1343,
+                        "endColumn": 36,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 38,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 38,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 38,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 38,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 37,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 37,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 41,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1545,
+                        "endColumn": 41,
+                        "endOffset": 1582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 30,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1589,
+                        "endColumn": 38,
+                        "endOffset": 1623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 43,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endColumn": 43,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endColumn": 42,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 840,
+                        "endColumn": 42,
+                        "endOffset": 878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 37,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 37,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endColumn": 38,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 38,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 38,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1419,
+                        "endColumn": 38,
+                        "endOffset": 1453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endColumn": 39,
+                    "endOffset": 1195
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 39,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1200,
+                    "endColumn": 38,
+                    "endOffset": 1234
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 38,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1239,
+                    "endColumn": 37,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 37,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1277,
+                    "endColumn": 36,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1134,
+                        "endColumn": 36,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endColumn": 38,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 38,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endColumn": 36,
+                    "endOffset": 1385
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 36,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1390,
+                    "endColumn": 38,
+                    "endOffset": 1424
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 38,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1429,
+                    "endColumn": 36,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 36,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endColumn": 38,
+                    "endOffset": 1500
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 38,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1505,
+                    "endColumn": 35,
+                    "endOffset": 1536
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 35,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1541,
+                    "endColumn": 37,
+                    "endOffset": 1574
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 37,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1579,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 1963
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1968,
+                    "endLine": 54,
+                    "endColumn": 21,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 5,
+                        "startOffset": 877,
+                        "endLine": 24,
+                        "endColumn": 21,
+                        "endOffset": 1268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 2748
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 5,
+                        "startOffset": 1644,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2753,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 3102
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1274,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3107,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 3457
+                },
+                "from": {
+                    "file": "/home/bourasseau/AndroidStudioProjects/M4104_2015_2016_tp2_calculatrice_a_completer2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 870
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android_tp3_intent</string>
+    <string name="tv_recapitulatif">Récapitulatif</string>
+    <string name="edit_text_email">Email</string>
+    <string name="title_bt_ok">OK</string>
+
+</resources>
